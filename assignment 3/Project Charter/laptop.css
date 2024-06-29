@@ -5,10 +5,10 @@
 .container {
   max-width: 100%;
   margin: 0 auto;
-  background-color: blue;
+  background-color: rgb(0, 0, 255);
   border-top: 20px solid blue;
   border-bottom: 20px solid blue;
-  border-left: 8px solid blue;
+
   border-right: 8px solid blue;
 }
 body {
